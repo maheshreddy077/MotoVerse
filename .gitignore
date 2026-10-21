@@ -1,0 +1,19 @@
+# Generated files
+build/
+bin/
+*.class
+*.log
+
+# Eclipse workspace metadata
+.metadata/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
+
+src/main/webapp/WEB-INF/lib/servlet-api.jar
